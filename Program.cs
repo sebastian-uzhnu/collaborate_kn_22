@@ -6,4 +6,4 @@ Console.WriteLine("This is a simple C# console application.");
 
 Console.WriteLine("S added.");
 Console.WriteLine("S added.2");
-Console.WriteLine("S added.3");
+ddConsole.WriteLine("S added.3");
