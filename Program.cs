@@ -7,3 +7,10 @@ COinsole
 Console.WriteLine("S added.");
 Console.WriteLine("S added.2");
 ddConsole.WriteLine("S added.3");
+
+
+
+Console.WriteLine("S added.4");
+Console.WriteLine("S added.5");
+Console.WriteLine("S added.6");
+Console.WriteLine("S added.7");
